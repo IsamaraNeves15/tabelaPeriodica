@@ -1,0 +1,98 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(11, 11, 11);
+  margin: 0 auto;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-size: 5.0em;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+table {
+  width: 500px;
+  padding: 20px;
+  empty-cells: hide;
+}
+
+caption {
+  caption-side: bottom;
+}
+
+tr td {
+  border: 1px solid black;
+  padding: 20px;
+}
+
+h3 {
+  font-size: 1.8em;
+}
+
+#first {
+  background:orange;
+}
+
+.embranco {
+  background-color: white;
+}
+
+.alcalin {
+  background-color: red;
+  empty-cells: hide;
+}
+
+.alcalite {
+  background-color: rgb(248, 201, 114);
+}
+
+.gano {
+  background-color: rgb(246, 87, 246);
+}
+
+
+.semimet {
+  background-color: rgba(250, 235, 19, 0.946);
+}
+
+.nemepoli {
+  background-color: rgb(14, 141, 14);
+}
+
+.nemedi {
+  background-color: rgb(246, 142, 69);
+}
+
+.metrapotran {
+  background-color: rgb(178, 142, 212);
+}
+
+.metran {
+  background-color: lightgreen;
+}
+
+.lantan {
+  background-color: royalblue;
+}
+
+.actin {
+  background-color: cornflowerblue;
+}
+
+.proquide {
+  background-color: darkgray;
+}
+
+tfoot{
+  margin-top: 30px;
+}
+
+footer p {
+  font-size: 1.5em;
+  font-weight: bold;
+  text-align: center;
+
+  margin-top: 20px;
+}
